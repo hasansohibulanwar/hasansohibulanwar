@@ -33,5 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasansohibulanwar&" alt="hasansohibulanwar" /></p>
 
-<br><br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasansohibulanwar&show_icons=true&locale=en" alt="hasansohibulanwar" /></p>
