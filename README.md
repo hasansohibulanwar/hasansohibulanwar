@@ -2,11 +2,10 @@
 <h1 align="center">Hi 👋, I'm Hasan Sohibul Anwar</h1>
 <h3 align="center">Iam Informatics Engineering Student</h3>
 
-<img align="right" src="./tech.gif" style="width:420px"/>
+<img align="right" src="./tech.gif" style="width:320px"/>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasansohibulanwar&label=Profile%20views&color=0e75b6&style=flat" alt="hasansohibulanwar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasansohibulanwar" alt="hasansohibulanwar" /></a> </p>
 
 - 🔭 I’m currently working on **IT**
 
