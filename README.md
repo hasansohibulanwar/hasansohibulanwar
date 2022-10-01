@@ -5,7 +5,7 @@
 <img align="right" src="./tech.gif" style="width:320px"/>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasansohibulanwar&label=Profile%20views&color=0e75b6&style=flat" alt="hasansohibulanwar" /> </p>
- 
+
 
 - 🔭 I’m currently working on **IT**
 
