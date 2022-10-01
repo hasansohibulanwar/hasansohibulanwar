@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Music and Design**
 
-- 📄 Know about my experiences [Music , Design , Multimedia](Music , Design , Multimedia)
+- 📄 Know about my experiences [Music , Design , Multimedia]
 
 - ⚡ Fun fact **Iam an Musician**
 
@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/hasan-sohib-21100b24b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan-sohib-21100b24b" height="30" width="40" /></a>
 <a href="https://instagram.com/hasansohib_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasansohib_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/imagine-lmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="imagine-lmj" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCj7UmpPn_6NBUquxz4zzScw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="imagine-lmj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
