@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hasan Sohibul Anwar</h1>
-<h3 align="center">Iam Informatics Engineering Student</h3>
+<h3 align="center">Iam Informatics Engineering Student</h3> 
 
 <img align="right" src="./tech.gif" style="width:320px"/>
  
