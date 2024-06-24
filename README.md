@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **IT**
 
-- 🌱 I’m currently learning **Java , Flutter , Dart ,PHP , HTML , CSS ,Java Script , Laravel , React JS , phyton ,Golang , Doker ,C++ , Blade , Shell , TSql , hack**
+- 🌱 I’m currently learning **Laravel , Java ,  Flutter , Dart ,PHP , HTML , CSS ,Java Script ,  React JS , phyton ,Golang , Doker ,C++ , Blade , Shell , TSql , hack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hasansohibulanwar](https://github.com/hasansohibulanwar)
 
