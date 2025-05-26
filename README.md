@@ -568,3 +568,319 @@ Thank you for taking the time to explore my profile! Your visit means a lot to m
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
 
 </div>
+
+### FUN SECTION GAME
+
+# 🚀 The Quantum Paradox
+## Interactive Adventure Game
+
+> **Selamat datang di tahun 2087!** Kamu adalah Dr. Alex Chen, seorang fisikawan quantum yang bekerja di stasiun penelitian luar angkasa *Nexus-7*. Tiba-tiba, alarm berbunyi dan semua sistem mulai berperilaku aneh. Realitas seperti mulai... melengkung.
+
+---
+
+## 🎮 Cara Bermain
+1. Baca setiap scene dengan seksama
+2. Pilih opsi yang tersedia dengan mengklik link
+3. Keputusanmu akan menentukan nasib umat manusia!
+4. Ada multiple endings - coba semua path untuk pengalaman lengkap
+
+**⚠️ Warning:** Beberapa pilihan akan berujung pada game over. Jangan khawatir, kamu bisa restart kapan saja!
+
+---
+
+## 📖 Start Game
+
+### [🚨 Scene 1: Alarm Merah](#scene-1-alarm-merah)
+
+---
+
+## Scene 1: Alarm Merah
+
+*BEEP! BEEP! BEEP!*
+
+Kamu terbangun dari tidur siang di lab dengan suara alarm yang memekakkan telinga. Lampu merah berkedip-kedip di seluruh koridor stasiun *Nexus-7*. Melalui jendela lab, kamu melihat pemandangan yang mengerikan - bintang-bintang di langit bergerak dalam pola yang tidak masuk akal, seakan realitas sedang berputar.
+
+Komputermu menampilkan pesan darurat: **"ANOMALI QUANTUM TERDETEKSI - TINGKAT BAHAYA: MAKSIMUM"**
+
+Dr. Sarah Kim, rekan kerjamu, berlari masuk ke lab dengan wajah pucat.
+
+"Alex! Kamu harus lihat ini! Eksperimen Quantum Bridge kita... ada yang salah. Sangat salah. Dimensi parallel sepertinya mulai bertabrakan!"
+
+**Pilihan:**
+- **[A] Langsung ke Control Room untuk mematikan Quantum Bridge](#scene-2a-control-room)**
+- **[B] Cek data eksperimen di lab dulu untuk memahami masalahnya](#scene-2b-analisis-data)**
+- **[C] Pergi ke Observation Deck untuk melihat anomali di luar angkasa](#scene-2c-observation-deck)**
+
+---
+
+## Scene 2A: Control Room
+
+Kamu dan Sarah berlari menuju Control Room. Koridor stasiun terasa aneh - beberapa bagian seperti berulang, dan kamu yakin sudah melewati junction yang sama tiga kali.
+
+Di Control Room, kamu menemukan Captain Torres sedang berteriak pada konsol yang berkedip-kedip. "Semua sistem tidak merespons! Bridge quantum tidak bisa dimatikan!"
+
+Kamu melihat layar utama menampilkan peta energi quantum yang kacau. Ada spike energi besar yang mengarah ke... Earth?
+
+"Alex," kata Torres dengan nada putus asa, "jika kita tidak menghentikan ini dalam 10 menit, gelombang quantum akan mencapai Bumi. Seluruh planet bisa terhapus dari eksistensi!"
+
+**Status: 10 menit tersisa**
+
+**Pilihan:**
+- **[A] Coba override sistem secara manual - berisiko tapi cepat](#scene-3a-manual-override)**
+- **[B] Saran untuk mengalihkan energi ke auxiliary power - lebih aman tapi lambat](#scene-3b-auxiliary-power)**
+- **[C] Minta Torres untuk mengevakuasi stasiun sambil kamu mencoba solusi desperate](#scene-3c-desperate-solution)**
+
+---
+
+## Scene 2B: Analisis Data
+
+"Tunggu, Sarah. Kita perlu tahu apa yang sebenarnya terjadi sebelum bertindak ceroboh."
+
+Kamu berlari ke terminal lab dan mulai menganalisis data eksperimen. Yang kamu temukan membuatmu terkejut - eksperimen Quantum Bridge tidak gagal. Malah terlalu berhasil.
+
+"Sarah, lihat ini! Kita tidak hanya membuka portal ke dimensi parallel... kita membuka portal ke SEMUA dimensi parallel sekaligus!"
+
+Data menunjukkan 847 dimensi yang berbeda mulai merger dengan realitas kita. Di beberapa dimensi, manusia sudah punah. Di yang lain, teknologi jauh lebih maju. Dan di satu dimensi... ada sesuatu yang tidak seharusnya ada.
+
+Tiba-tiba, Sarah menunjuk ke layar dengan wajah horror. "Alex... lihat dimensi #23. Apa itu?"
+
+Di layar, kamu melihat data dari dimensi yang dipenuhi oleh entitas yang terdaftar sebagai "UNKNOWN INTELLIGENCE - HOSTILE INTENT DETECTED"
+
+**Pilihan:**
+- **[A] Coba komunikasi dengan entitas dari dimensi #23](#scene-3d-communication)**
+- **[B] Fokus menutup portal ke dimensi berbahaya dulu](#scene-3e-close-dangerous-portal)**
+- **[C] Cari cara untuk memisahkan dimensi yang sudah merger](#scene-3f-separate-dimensions)**
+
+---
+
+## Scene 2C: Observation Deck
+
+Kamu memutuskan untuk melihat langsung apa yang terjadi di luar. Di Observation Deck, pemandangan yang kamu saksikan mengubah pemahamanmu tentang realitas.
+
+Bintang-bintang tidak hanya bergerak - mereka membentuk pola yang berulang seperti kaleidoskop cosmic. Beberapa bintang terlihat ganda, bahkan triple. Dan yang paling mengerikan... kamu melihat Bumi.
+
+Tapi bukan satu Bumi. Ada puluhan Bumi yang berbeda, beberapa berwarna biru-hijau seperti biasa, ada yang completely urban, ada yang tertutup es, dan satu yang... terbakar.
+
+"Multiple timeline collapse," bisikmu. "Semua kemungkinan realitas menjadi nyata sekaligus."
+
+Tiba-tiba, kamu mendengar suara di belakang. Tapi ketika berbalik, tidak ada siapa-siapa. Lalu kamu menyadari - suara itu datang dari dirimu sendiri. Tapi bukan dari timeline ini.
+
+"Jangan panik," kata suara yang persis seperti suaramu. "Aku dari timeline di mana kita berhasil menyelesaikan masalah ini. Dengarkan baik-baik..."
+
+**Pilihan:**
+- **[A] Dengarkan nasihat dari "diri masa depan"](#scene-3g-future-self)**
+- **[B] Tidak percaya dan mencari bantuan di Control Room](#scene-3h-control-room-help)**
+- **[C] Coba berkomunikasi dengan "diri" dari timeline lain](#scene-3i-timeline-communication)**
+
+---
+
+## Scene 3A: Manual Override
+
+"Tidak ada waktu lagi!" kamu berteriak sambil berlari ke konsol utama. "Torres, berikan akses emergency ke sistem quantum!"
+
+Captain Torres memasukkan kode emergency. "Alex, ini sangat berbahaya! Jika salah, kamu bisa terbakar oleh radiasi quantum!"
+
+Kamu mengabaikan warning dan mulai mematikan sistem secara manual. Energi quantum bergejolak di sekitarmu, membuat rambut berdiri dan kulit terasa seperti tertusuk jarum.
+
+**Status: 5 menit tersisa**
+
+Tiba-tiba, konsol meledak! Kamu terpental ke belakang, tapi sistem... mulai shutdown!
+
+"Berhasil!" teriak Sarah. "Energi quantum menurun!"
+
+Tapi kebahagiaan tidak berlangsung lama. Layar monitoring menunjukkan pesan baru: **"QUANTUM BACKFLOW DETECTED - REALITY ANCHOR COMPROMISED"**
+
+"Apa artinya itu?" tanya Torres.
+
+Kamu menyadari dengan horror - dengan mematikan sistem secara paksa, kamu telah menciptakan quantum backflow yang akan membuat seluruh stasiun terhisap ke void dimensional.
+
+**Pilihan:**
+- **[A] Coba restart sistem untuk menghentikan backflow](#scene-4a-restart-system)**
+- **[B] Evakuasi segera ke escape pods](#scene-4b-evacuation)**
+- **[C] Sacrifice diri untuk menstabilkan quantum anchor](#scene-4c-sacrifice)**
+
+---
+
+## Scene 3B: Auxiliary Power
+
+"Torres, kita perlu mengalihkan energi quantum ke auxiliary power core. Ini akan memperlambat prosesnya dan memberi kita waktu untuk solusi yang lebih aman."
+
+"Tapi itu akan memakan waktu 8 menit," kata Torres. "Kita hanya punya 10 menit!"
+
+"Better safe than sorry," kata Sarah mendukungmu.
+
+Kalian mulai proses transfer energi. Perlahan, spike energi quantum mulai berkurang. Sistem stasiun mulai stabil.
+
+**Status: 3 menit tersisa**
+
+"Berhasil!" kata Torres. "Energi sudah dialihkan. Sekarang kita punya kontrol!"
+
+Tapi kamu menyadari sesuatu. Auxiliary power core tidak dirancang untuk menahan energi quantum sebesar ini. Di layar monitoring, kamu melihat temperature core naik drastis.
+
+"Core akan overload dalam 2 menit," kamu memberitahu yang lain. "Kita perlu solusi cepat!"
+
+**Pilihan:**
+- **[A] Ejek auxiliary core ke luar angkasa sebelum overload](#scene-4d-eject-core)**
+- **[B] Distribute energi ke semua sistem stasiun](#scene-4e-distribute-energy)**
+- **[C] Transfer energi kembali ke Quantum Bridge dan coba solusi lain](#scene-4f-back-to-bridge)**
+
+---
+
+## Scene 3C: Desperate Solution
+
+"Torres, evakuasi semua crew ke escape pods. Aku akan mencoba sesuatu yang gila."
+
+"Alex, jangan lakukan hal yang bodoh!" teriak Sarah.
+
+"Percayakan padaku. Jika tidak berhasil, kalian masih punya kesempatan melarikan diri."
+
+Setelah semua crew evakuasi, kamu sendirian di Control Room. Kamu punya ide desperate - menggunakan dirimu sendiri sebagai quantum anchor untuk menstabilkan anomali.
+
+Kamu menghubungkan diri ke sistem quantum melalui neural interface yang masih experimental. Rasa sakit luar biasa menyerang otakmu ketika kesadaranmu mulai tersebar di multiple dimensi.
+
+**Status: 1 menit tersisa**
+
+Tiba-tiba, kamu bisa "melihat" semua dimensi sekaligus. Kamu adalah dirimu di 847 timeline berbeda. Beberapa dari dirimu sudah mati, beberapa berhasil, dan beberapa... menjadi sesuatu yang bukan manusia lagi.
+
+Kamu menyadari bahwa untuk menyelamatkan dimensi asalmu, kamu harus mengorbankan semua versi dirimu yang lain.
+
+**Pilihan:**
+- **[A] Sacrifice semua versi dirimu untuk menyelamatkan dimensi asal](#scene-4g-ultimate-sacrifice)**
+- **[B] Coba merger dengan versi dirimu yang paling kuat](#scene-4h-merger)**
+- **[C] Putuskan koneksi dan terima konsekuensinya](#scene-4i-disconnect)**
+
+---
+
+## Scene 4A: Restart System
+
+Dengan tangan gemetar, kamu mencoba restart Quantum Bridge. "Ini akan memperburuk keadaan atau menyelamatkan kita semua!"
+
+Sistem mulai booting up. Quantum backflow berhenti sejenak, memberikan kalian harapan. Tapi kemudian...
+
+**CRITICAL ERROR: QUANTUM PARADOX LOOP DETECTED**
+
+"Alex!" teriak Sarah. "Kita terjebak dalam paradox loop! Waktu mulai berulang!"
+
+Kamu menyadari kalian akan mengalami 10 menit terakhir ini berulang-ulang selamanya kecuali ada yang menghentikannya dari luar loop.
+
+**ENDING: TEMPORAL PRISON**
+*Kamu dan crew Nexus-7 terjebak dalam loop waktu. Setiap 10 menit, kalian akan kembali ke Scene 1, dengan memori yang samar tentang loop sebelumnya. Bumi selamat, tapi dengan harga yang sangat mahal.*
+
+**🔄 [Restart Game](#scene-1-alarm-merah) | 🏆 [View All Endings](#all-endings)**
+
+---
+
+## Scene 4B: Evacuation
+
+"Semua crew ke escape pods! SEKARANG!" teriak Torres.
+
+Kalian berlari ke escape bay. Stasiun mulai hancur di sekitar kalian, realitas itself mulai unraveling. Kamu adalah orang terakhir yang masuk ke escape pod.
+
+Saat pod meluncur menjauh dari stasiun, kamu melihat Nexus-7 imploding, membentuk black hole kecil yang menyerap anomali quantum.
+
+"Bumi selamat?" tanya Sarah lewat comm.
+
+Kamu cek sensor. Gelombang quantum berhasil dihentikan oleh implosion stasiun. "Ya, Bumi aman."
+
+Tapi kalian sekarang terdampar di luar angkasa, jauh dari rumah, dengan hanya supplies untuk beberapa minggu.
+
+**ENDING: PYRRHIC VICTORY**
+*Bumi diselamatkan, tapi dengan harga Nexus-7 dan mungkin hidup kalian. Rescue mission sedang dalam perjalanan, tapi akan sampai tepat waktu?*
+
+**🔄 [Restart Game](#scene-1-alarm-merah) | 🏆 [View All Endings](#all-endings)**
+
+---
+
+## Scene 4C: Sacrifice
+
+"Maafkan aku," kamu bisik sambil memeluk quantum anchor dengan tangan kosong.
+
+Energi quantum langsung membakar tubuhmu, tapi kamu bertahan cukup lama untuk menstabilkan anchor. Rasa sakit indescribable menyerang setiap atom tubuhmu.
+
+"ALEX!" teriak Sarah, tapi Torres menahannya.
+
+Dengan sisa kesadaranmu, kamu melihat sistem kembali stabil. Backflow berhenti. Bumi aman.
+
+Dalam detik terakhir hidupmu, kamu melihat visi semua timeline yang berhasil kamu selamatkan. Milyaran nyawa di infinite realities.
+
+**ENDING: HERO'S SACRIFICE**
+*Kamu mengorbankan hidupmu untuk menyelamatkan tidak hanya Bumi, tapi seluruh multiverse. Di semua timeline, nama Dr. Alex Chen akan dikenang sebagai penyelamat umat manusia.*
+
+**🔄 [Restart Game](#scene-1-alarm-merah) | 🏆 [View All Endings](#all-endings)**
+
+---
+
+## Scene 4G: Ultimate Sacrifice
+
+Dengan berat hati, kamu membuat keputusan terberat dalam hidupmu. Kamu mulai "memutus" koneksi ke 846 versi dirimu yang lain.
+
+Setiap versi yang hilang membuat rasa sakit mental yang luar biasa. Kamu merasakan 846 kematian sekaligus. Tapi dengan setiap sacrifice, quantum anomaly semakin stabil.
+
+Pada akhirnya, hanya tinggal dirimu di timeline asli. Anomali berhenti. Dimensi-dimensi terpisah kembali.
+
+Kamu terbangun di medical bay, Sarah dan Torres mengelilingimu.
+
+"Alex! Kamu berhasil! Semua sistem normal!" kata Sarah dengan mata berkaca-kaca.
+
+Tapi kamu tahu yang sebenarnya terjadi. 846 versi dirimu tidak akan pernah pulang ke keluarga mereka. Mereka mati supaya timeline ini bisa hidup.
+
+**ENDING: THE BURDEN OF CHOICE**
+*Bumi dan timeline asli selamat, tapi kamu harus hidup dengan beban mengetahui bahwa 846 versi dirimu telah dikorbankan. Apakah satu timeline layak diselamatkan dengan harga sebesar itu?*
+
+**🔄 [Restart Game](#scene-1-alarm-merah) | 🏆 [View All Endings](#all-endings)**
+
+---
+
+## All Endings
+
+### 🏆 Endings yang Dapat Dicapai:
+
+1. **⏰ TEMPORAL PRISON** - Terjebak dalam loop waktu
+2. **🚀 PYRRHIC VICTORY** - Menyelamatkan Bumi tapi terdampar di luar angkasa  
+3. **⭐ HERO'S SACRIFICE** - Mengorbankan diri untuk menyelamatkan multiverse
+4. **💭 THE BURDEN OF CHOICE** - Hidup dengan beban berat setelah mengorbankan alternate selves
+
+### 🔍 Hidden Endings:
+- **👽 ALIEN ALLIANCE** - [Coba path komunikasi dengan entitas dimensional]
+- **🌌 QUANTUM ASCENSION** - [Merger dengan versi dirimu yang paling kuat]
+- **🔮 ORACLE'S PATH** - [Ikuti nasihat dari future self]
+- **❄️ TOTAL RESET** - [Ada path rahasia untuk mereset semua timeline]
+
+### 📊 Statistik:
+- **Total Scenes:** 15+
+- **Decision Points:** 20+  
+- **Possible Endings:** 8
+- **Completion Rate:** ?/8
+
+---
+
+## 🎯 Achievement Unlocked?
+
+**🏆 Completionist:** Temukan semua 8 ending  
+**🧠 Strategist:** Selesaikan game tanpa game over  
+**💝 Humanitarian:** Pilih opsi yang menyelamatkan paling banyak nyawa  
+**🔬 Scientist:** Selalu pilih opsi analisis data sebelum bertindak  
+
+---
+
+## 💬 Behind the Scenes
+
+Game ini dibuat dengan konsep **branching narrative** menggunakan markdown anchor links. Setiap pilihan mengarah ke konsekuensi yang berbeda, dan beberapa path memiliki multiple sub-branches.
+
+**Easter Eggs:** Ada beberapa reference ke sci-fi classics dan easter eggs tersembunyi di dalam teks. Can you find them all?
+
+---
+
+## 🚀 Want to Contribute?
+
+Jika kamu punya ide untuk:
+- Scene tambahan
+- Plot twist baru  
+- Ending alternatif
+- Character development
+
+Feel free to submit PR! Mari kita buat adventure ini semakin epic!
+
+---
+
+**🎮 [Start New Game](#scene-1-alarm-merah)**
